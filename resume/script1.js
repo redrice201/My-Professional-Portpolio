@@ -102,7 +102,7 @@ async function data() {
     split2.className = "seperate2 box";
 
     let images1 = document.createElement("img");
-    images1.src = "../logo/Curious-bro.png";
+    images1.src = "logo/Curious-bro.png";
 
     let seperatorbutton2 = document.createElement("button");
     seperatorbutton2.className = "close";
@@ -158,7 +158,7 @@ async function data() {
       let imageproject = document.createElement("img");
       imageproject.src = data.projects[i].projectsimg;
       let zoom = document.createElement("img");
-      zoom.src = "../img/zoom-in.png";
+      zoom.src = "img/zoom-in.png";
       zoom.className = "zoom";
       zoom.id = "zoom";
       projectsimg.addEventListener("mouseover", () => {

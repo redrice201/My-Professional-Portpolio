@@ -1,6 +1,6 @@
 async function data() {
   try {
-    const url = await fetch("/resume/data.json");
+    const url = await fetch("My-Professional-Portpolio/resume/data.json");
     const data = await url.json();
     console.log("success");
 

@@ -1,77 +1,77 @@
 {
   "Programming": [
     {
-      "image": "My-Professional-Portpolio/logo/html.png",
+      "image": "../logo/html.png",
       "language": "HTML",
       "width": "90"
     },
     {
-      "image": "My-Professional-Portpolio/logo/css-3.png",
+      "image": "../logo/css-3.png",
       "language": "CSS",
       "width": "80"
     },
     {
-      "image": "My-Professional-Portpolio/logo/Js.png",
+      "image": "../logo/Js.png",
       "language": "Javascript",
       "width": "75"
     },
 
     {
-      "image": "My-Professional-Portpolio/logo/PHP.png",
+      "image": "../logo/PHP.png",
       "language": "PHP",
       "width": "75"
     },
     {
-      "image": "My-Professional-Portpolio/logo/React.png",
+      "image": "../logo/React.png",
       "language": "ReactJs",
       "width": "55"
     },
     {
-      "image": "My-Professional-Portpolio/logo/sql.png",
+      "image": "../logo/sql.png",
       "language": "SQL",
       "width": "70"
     },
 
     {
-      "image": "My-Professional-Portpolio/logo/Angular.png",
+      "image": "../logo/Angular.png",
       "language": "Angular",
       "width": "70"
     },
     {
-      "image": "My-Professional-Portpolio/logo/api.png",
+      "image": "../logo/api.png",
       "language": "API Integration",
       "width": "70"
     },
 
     {
-      "image": "My-Professional-Portpolio/logo/version-control.png",
+      "image": "../logo/version-control.png",
       "language": "Version control (Git, GitHub)",
       "width": "80"
     }
   ],
   "tools": [
     {
-      "image": "My-Professional-Portpolio/logo/My-Professional-Portpolio/logo.png",
+      "image": "../logo/logo.png",
       "language": "Visual Stuido Code"
     },
     {
-      "image": "My-Professional-Portpolio/logo/figma.png",
+      "image": "../logo/figma.png",
       "language": "Figma"
     },
     {
-      "image": "My-Professional-Portpolio/logo/version-control.png",
+      "image": "../logo/version-control.png",
       "language": "Git / GitHub / GitLab"
     },
     {
-      "image": "My-Professional-Portpolio/logo/nodejs.png",
+      "image": "../logo/nodejs.png",
       "language": "NPM / Node.js"
     },
     {
-      "image": "My-Professional-Portpolio/logo/web-browser.png",
+      "image": "../logo/web-browser.png",
       "language": "Version control (Git, GitHub)"
     },
     {
-      "image": "My-Professional-Portpolio/logo/canva.png",
+      "image": "../logo/canva.png",
       "language": "Canva"
     }
   ],

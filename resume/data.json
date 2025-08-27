@@ -1,0 +1,165 @@
+{
+  "Programming": [
+    {
+      "image": "logo/html.png",
+      "language": "HTML",
+      "width": "90"
+    },
+    {
+      "image": "logo/css-3.png",
+      "language": "CSS",
+      "width": "80"
+    },
+    {
+      "image": "logo/Js.png",
+      "language": "Javascript",
+      "width": "75"
+    },
+
+    {
+      "image": "logo/PHP.png",
+      "language": "PHP",
+      "width": "75"
+    },
+    {
+      "image": "logo/React.png",
+      "language": "ReactJs",
+      "width": "55"
+    },
+    {
+      "image": "logo/sql.png",
+      "language": "SQL",
+      "width": "70"
+    },
+
+    {
+      "image": "logo/Angular.png",
+      "language": "Angular",
+      "width": "70"
+    },
+    {
+      "image": "logo/api.png",
+      "language": "API Integration",
+      "width": "70"
+    },
+
+    {
+      "image": "logo/version-control.png",
+      "language": "Version control (Git, GitHub)",
+      "width": "80"
+    }
+  ],
+  "tools": [
+    {
+      "image": "logo/logo.png",
+      "language": "Visual Stuido Code"
+    },
+    {
+      "image": "logo/figma.png",
+      "language": "Figma"
+    },
+    {
+      "image": "logo/version-control.png",
+      "language": "Git / GitHub / GitLab"
+    },
+    {
+      "image": "logo/nodejs.png",
+      "language": "NPM / Node.js"
+    },
+    {
+      "image": "logo/web-browser.png",
+      "language": "Version control (Git, GitHub)"
+    },
+    {
+      "image": "logo/canva.png",
+      "language": "Canva"
+    }
+  ],
+
+  "softskills": [
+    {
+      "skills": "Problem-solving"
+    },
+    {
+      "skills": "Communication"
+    },
+    {
+      "skills": "Attention to detail"
+    },
+    {
+      "skills": "Time management"
+    },
+    {
+      "skills": "Team collaboration"
+    },
+    {
+      "skills": "Adaptability"
+    }
+  ],
+
+  "projects": [
+    {
+      "num": "1",
+      "title": "Artistic Heritage Museum",
+      "projectsimg": "project-img/heritage.png",
+      "projectsdescription": "Artistic-HERITAGE is a website dedicated to showcasing timeless paintings and the talented artists who created them. It focuses on the Renaissance and Baroque periods, offering detailed descriptions of each painting and its creator.",
+      "link": "https://github.com/redrice201/Artistic-HERITAGE"
+    },
+    {
+      "num": "2",
+      "title": "TM Catering",
+      "projectsimg": "project-img/catering.png",
+      "projectsdescription": "This project is a catering service website created to let customers explore menus, place reservations, and monitor orders, while providing administrators with complete tools and access to oversee, update, and efficiently manage the catering business.",
+      "link": "https://github.com/redrice201/Catering-Service-Management-System"
+    },
+    {
+      "num": "3",
+      "title": "Membership Gym",
+      "projectsimg": "project-img/gym.png",
+      "projectsdescription": "This project is a Gym Management Web Application designed specifically for administrators. It allows gym owners and staff to efficiently manage member records, track attendance, and oversee equipment rentals, providing a streamlined solution for daily gym operations.",
+      "link": "https://github.com/redrice201/GYM-Management-System"
+    },
+    {
+      "num": "4",
+      "title": "POSTRADO Furniture",
+      "projectsimg": "project-img/Screenshot 2025-08-24 212453.png",
+      "projectsdescription": "This project is a Furniture E-Commerce Web Application that allows users to customize furniture designs, choose materials, and purchase ready-made pieces. It provides customers with a personalized shopping experience while giving administrators control over managing products and orders.",
+      "link": "https://github.com/redrice201/POSTRADO-Furniture-E-Commerce"
+    },
+    {
+      "num": "5",
+      "title": "Valorant API",
+      "projectsimg": "project-img/valorant.png",
+      "projectsdescription": "This project is a Valorant Agent Web Application that lets users browse, search, and filter agents by name, role, and abilities. It fetches data from an external API, providing players and fans with an interactive, informative, and visually engaging experience that improves gameplay knowledge and community interaction.",
+      "link": "https://github.com/redrice201/API-Valorant-Agent-Website"
+    },
+    {
+      "num": "6",
+      "title": "Math Game",
+      "projectsimg": "project-img/Math-Game.png",
+      "projectsdescription": "This project is an Interactive Math Game designed to make practicing math skills engaging and enjoyable. Players face timed challenges, solve problems, and track their progress, helping them strengthen arithmetic abilities while having fun through a playful learning experience.",
+      "link": "https://github.com/redrice201/Math-Game"
+    },
+    {
+      "num": "7",
+      "title": "Weather / Global API",
+      "projectsimg": "project-img/weather.png",
+      "projectsdescription": "This project is a Web Application that allows users to search for cities, barangays, municipalities, or countries to instantly view location profiles and live weather updates. It combines geographic and climate data, offering users convenient real-time information in one place.",
+      "link": "https://github.com/redrice201/Global-Weather-Profile-Search-using-API-"
+    },
+    {
+      "num": "8",
+      "title": "Password Generator",
+      "projectsimg": "project-img/password generator.png",
+      "projectsdescription": "This project is a simple and customizable web-based Password Generator that helps users create strong, secure passwords. It allows selecting preferences such as length, uppercase, lowercase, numbers, and symbols, ensuring better security for personal or professional accounts.",
+      "link": "https://github.com/redrice201/password-generator"
+    },
+    {
+      "num": "9",
+      "title": "Calculator",
+      "projectsimg": "project-img/calculator.png",
+      "projectsdescription": "This project is a fully functional Calculator created with HTML, CSS, and JavaScript. It enables users to perform essential arithmetic operations like addition, subtraction, multiplication, and division while offering a clean, responsive, and user-friendly design for quick calculations.",
+      "link": "https://github.com/redrice201/Simple-Calculator"
+    }
+  ]
+}

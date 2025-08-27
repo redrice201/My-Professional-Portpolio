@@ -1,0 +1,336 @@
+
+@media (max-width: 1275px) {
+  .box-mini {
+    top: 80px;
+  }
+  .card:hover .box-mini {
+    top: 75px;
+  }
+}
+@media (max-width: 1050px) {
+  .box-mini {
+    top: 60px;
+  }
+  .card:hover .box-mini {
+    top: 65px;
+  }
+}
+@media (max-width: 1146px) {
+  .contact-button button {
+    width: 40%;
+  }
+}
+@media (max-height: 800px) {
+  .seperator,
+  .experience,
+  .projects,
+  .split2 {
+    margin: 50px 0px;
+  }
+}
+@media (max-width: 900px) {
+  .bigImage-img {
+    width: 95%;
+  }
+  .progress .two {
+    width: 30%;
+  }
+  .split1 {
+    margin: 0 10px;
+  }
+  .progress {
+    width: 40%;
+  }
+  .box-mini {
+    top: 100px;
+  }
+  .card:hover .box-mini {
+    top: 95px;
+  }
+  .contact-button button {
+    width: 40%;
+  }
+  .aboutMe .experience:nth-child(1) {
+    width: 50%;
+  }
+  .description-about div {
+    width: 90%;
+  }
+  .container {
+    margin: 0px;
+  }
+  .seperator {
+    gap: 20px;
+    padding-top: 50px;
+  }
+  .seperator,
+  .experience,
+  .projects,
+  .split2 {
+    height: auto;
+  }
+  .content-box,
+  .card-projects,
+  .card {
+    width: 40%;
+  }
+  .seperatesplit {
+    height: auto;
+  }
+}
+
+@media (max-width: 857px) {
+  .contact-button button {
+    width: 50%;
+  }
+}
+@media (max-width: 768px) {
+  .progress {
+    width: 45%;
+  }
+  .progress .two {
+    width: 90%;
+  }
+  .box-mini {
+    top: 85px;
+  }
+  .card:hover .box-mini {
+    top: 80px;
+  }
+  .content-box {
+    width: 40%;
+  }
+  .card-projects {
+    width: 45%;
+  }
+  .container {
+    margin: 0;
+  }
+  .fullname {
+    font-size: 4rem;
+  }
+  .description {
+    width: 50vw;
+  }
+  .image img {
+    width: 100%;
+  }
+  .contact-button button {
+    width: 40%;
+    font-size: 0.9rem;
+  }
+  .card {
+    width: 45%;
+  }
+  .experience {
+    margin: 100px 0px;
+    top: 80px;
+  }
+}
+@media (max-width: 720px) {
+  .projects {
+    align-items: flex-start;
+  }
+  .split1 {
+    margin: 0px 50px;
+  }
+  .seperate2 {
+    width: 70%;
+  }
+}
+@media (max-width: 600px) {
+  .box-mini {
+    top: 130px;
+  }
+  .card:hover .box-mini {
+    top: 125px;
+  }
+  .cannon .two {
+    width: 35%;
+  }
+  .menubar-body button {
+    padding: 10px 20px;
+    animation-duration: 0.3s;
+
+    font-size: 1.1rem;
+  }
+  .aboutMe .experience1:nth-child(1) {
+    width: 100%;
+  }
+  .menubar-body {
+    gap: 40px;
+    padding: 80px 0px;
+  }
+  .container {
+    margin: 0;
+  }
+
+  .description-content {
+    font-size: 1.5rem;
+  }
+  .burger-menu {
+    display: block;
+  }
+  .menu {
+    display: none;
+  }
+  .menubar {
+    display: none;
+  }
+  .doublemenu {
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .description {
+    width: 100%;
+  }
+  .contact-button {
+    display: flex;
+    justify-content: center;
+  }
+  .myname {
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: nowrap;
+    gap: 30px;
+    height: 100vh;
+    justify-content: flex-end;
+  }
+  .myname .description {
+    display: flex;
+    text-align: center;
+  }
+  a {
+    padding: 0;
+    margin: 0;
+    width: 8%;
+  }
+  .icon-contact {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+  .aboutMe {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    height: auto;
+  }
+
+  .aboutMe div {
+    width: 100%;
+  }
+  .aboutMe .experience:nth-child(1) {
+    width: 100%;
+  }
+  .experience img {
+    width: 40%;
+  }
+  .card {
+    width: 80%;
+  }
+  .seperator {
+    gap: 10px;
+    row-gap: 50px;
+  }
+  .content-box {
+    width: 80%;
+  }
+  .images-box img {
+    width: 100%;
+  }
+  .experience {
+    gap: 50px;
+  }
+  .contact-paragraph {
+    text-align: center;
+  }
+  .form,
+  .contact-paragraph {
+    width: 80%;
+  }
+}
+@media (max-width: 568px) {
+  .seperatesplit {
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+  }
+  .box-mini {
+    top: 100px;
+  }
+  .card:hover .box-mini {
+    top: 95px;
+  }
+  .seperate {
+    width: 40%;
+  }
+  .seperate2 img {
+    width: 100%;
+  }
+
+  .seperate2 {
+    width: 85%;
+  }
+  .seperate {
+    width: 80%;
+  }
+  .split1 {
+    margin: 0px 50px;
+  }
+}
+
+@media (max-width: 475px) {
+  .box-mini {
+    top: 90px;
+  }
+  .card:hover .box-mini {
+    top: 85px;
+  }
+  .fullname {
+    font-size: 2.5rem;
+  }
+  .image {
+    width: 50vw;
+  }
+  .image img {
+    width: 100%;
+  }
+  .card-projects {
+    width: 90%;
+  }
+}
+
+@media (max-width: 375px) {
+  .box-mini {
+    top: 70px;
+  }
+  .card:hover .box-mini {
+    top: 65px;
+  }
+}
+
+@media (max-height: 667px) {
+  .split1 {
+    margin: 0px 10px;
+  }
+}
+@media (max-width: 414px) and (max-height: 896px),
+  (max-width: 430px) and (max-height: 932px) {
+  .myname {
+    justify-content: center;
+  }
+}
+@media (max-width: 853px) and (max-height: 1280px) {
+  .seperator,
+  .experience,
+  .projects,
+  .split2 {
+    height: auto;
+    padding: 50px 0px;
+  }
+}

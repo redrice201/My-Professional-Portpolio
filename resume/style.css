@@ -116,7 +116,7 @@ nav div button:hover {
 }
 
 .contact-button button:nth-child(1):hover {
-  border: 2px solid var(--font-color1);
+  border: 2px solid rgb(0, 183, 255);
   background: transparent;
   color: orange;
 }
@@ -126,8 +126,8 @@ nav div button:hover {
   color: var(--font-color1);
 }
 .contact-button button:nth-child(2):hover {
-  border: 2px solid orange;
-  background: orange;
+  border: 2px solid rgb(0, 183, 255);
+  background: rgb(0, 183, 255);
 
   color: var(--font-color2);
 }

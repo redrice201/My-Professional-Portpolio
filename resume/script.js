@@ -130,3 +130,10 @@ bigclose.addEventListener("click", () => {
   open = false;
   menubar.style.display = "none";
 });
+document.getElementById("downloadfiles").addEventListener("click", () => {
+  const link = document.createElement("a");
+  link.href = "file/myresume.pdf";
+  link.download = "myresume.pdf";
+  link.click();
+  console.log("clicki");
+});

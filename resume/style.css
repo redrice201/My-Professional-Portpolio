@@ -1076,6 +1076,7 @@ a img {
   width: 95%;
   margin: 10px;
   border-radius: 10px;
+  cursor: pointer;
 }
 .projects-img img:nth-child(1) {
   position: absolute;
@@ -1084,6 +1085,7 @@ a img {
   display: none;
   width: 50px;
   right: 44%;
+  cursor: pointer;
 }
 
 .projects-header {
